@@ -20,7 +20,7 @@ In her free time Nik likes to hang with Hashko & Romi, eat new foods, and make t
 - 🔰 I’m currently learning ***my ABC's of coding***
 - 🥕 Ask me about ***once a week vegetarianism***
 - 🚀 After my MS I want to do ***UX research and/or UX engineering***
-- 📿 I believe that ***people are sometimes good***
+- 📿 I believe that ***people are sometimes good and better when they try***
 </details>
 <p>
 <div>
