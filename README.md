@@ -8,7 +8,7 @@
 <br>
 ![Profile image banner featuring traditional media artwork by nihkxo](cropping-for-dribbble-04.jpg)
 <p>
-Nik is a graduate student at Arizona State University working toward an MS in Graphic Information Technology.  Her particular interests are ux research, design, and engineering–also accessibility and information architecture.  She hopes to use her degree to improve public accessibility to vital resources via conscientious web design. Nik is a complete beginner at coding.
+Nik is a graduate student at Arizona State University working toward an MS in Graphic Information Technology.  Her particular interests are ux research, design, and engineering.  She hopes to use her degree to improve public accessibility to vital resources via conscientious web design. Nik is a complete beginner at coding.
 
 In her free time Nik likes to hang with Hashko & Romi, eat new foods, and make traditional-media art.
 </p>
@@ -22,13 +22,14 @@ In her free time Nik likes to hang with Hashko & Romi, eat new foods, and make t
 - 🚀 After my MS I want to do ***UX research and/or UX engineering***
 - 📿 I believe that ***people are sometimes good***
 </details>
-<br>
 <p>
-🧿 Have a look at my work 🧿
-
+<div>
+<details>
+<summary>🧿 Have a look at my work 🧿</summary>
 Art & Design: [dribbble](https://dribbble.com/nikortiz)
 <br>
 Murals: [kanikanik](https://kanikanik.com/)
+</details>
 </p>
 
 
