@@ -1,4 +1,4 @@
-## Hai-Hooo 🥮
+## Hai-Hooo 🥮✨
 <!--
 **nihkxo/nihkxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,11 +16,21 @@ In her free time Nik likes to hang with Hashko & Romi, eat new foods, and make t
 <details>
   <summary>🌸 More about me 🌸</summary>
 
-- 📚 I’m currently working on **the particularities of being a remote graduate student**
-- 🔰 I’m currently learning **my ABC's of coding**
-- 💬 Ask me about **illustrative design**
-- 🚀 After my MS I want to do **UX research and/or UX engineering**
+- 📚 I’m currently working on ***the particularities of being a remote graduate student***
+- 🔰 I’m currently learning ***my ABC's of coding***
+- 🥕 Ask me about ***once a week vegetarianism***
+- 🚀 After my MS I want to do ***UX research and/or UX engineering***
+- 📿 I believe that ***people are sometimes good***
 </details>
+<br>
+<p>
+🧿 Have a look at my work 🧿
+
+Art & Design: [dribbble](https://dribbble.com/nikortiz)
+<br>
+Murals: [kanikanik](https://kanikanik.com/)
+</p>
+
 
 </br>
 </br>
