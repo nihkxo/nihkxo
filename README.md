@@ -1,15 +1,17 @@
 ## Hai-Hooo 🥮
-
 <!--
 **nihkxo/nihkxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 *Mind me.*
+<br>
+<br>
+![Profile image banner featuring traditional media artwork by nihkxo](cropping-for-dribbble-04.jpg)
+<p>
+Nik is a graduate student at Arizona State University working toward an MS in Graphic Information Technology.  Her particular interests are ux research, design, and engineering–also accessibility and information architecture.  She hopes to use her degree to improve public accessibility to vital resources via conscientious web design. Nik is a complete beginner at coding.
 
-Nik is a graduate student at Arizona State University working toward an MS in Graphic Information Technology.  Her particular interests are user experience research and engineering.  She is a complete beginner at coding.
-
-In her free time Nik likes to hang with Hashko & Romi, eat new foods, and make art.
-
+In her free time Nik likes to hang with Hashko & Romi, eat new foods, and make traditional-media art.
+</p>
 <div>
 <details>
   <summary>🌸 More about me 🌸</summary>
