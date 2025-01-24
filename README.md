@@ -14,7 +14,7 @@ In her free time Nik likes to hang with Hashko & Romi, eat new foods, and make t
 </p>
 <div>
 <details>
-  <summary>🌸 More about me 🌸</summary>
+ <summary>🌸 More about me 🌸</summary>
 
 - 📚 I’m currently working on ***the particularities of being a remote graduate student***
 - 🔰 I’m currently learning ***my ABC's of coding***
@@ -26,12 +26,11 @@ In her free time Nik likes to hang with Hashko & Romi, eat new foods, and make t
 <div>
 <details>
 <summary>🧿 Have a look at my work 🧿</summary>
-Art & Design: [dribbble](https://dribbble.com/nikortiz)
-<br>
-Murals: [kanikanik](https://kanikanik.com/)
+
+- Art & Design: [dribbble](https://dribbble.com/nikortiz)
+- Murals: [kanikanik](https://kanikanik.com/)
 </details>
 </p>
-
 
 </br>
 </br>
